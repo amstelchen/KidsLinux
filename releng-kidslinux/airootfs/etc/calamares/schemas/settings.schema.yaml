@@ -1,0 +1,32 @@
+---
+type: map
+mapping:
+    "modules-search":
+        required: true
+        type: seq
+        sequence:
+            - { type: str }
+    "instances":
+        type: seq
+        sequence:
+          - type: map
+            mapping:
+                "id": { type: str }
+                "module": { type: str }
+                "config": { type: str }
+    "sequence":
+        type: seq
+        sequence:
+          - type: map
+            mapping:
+                "show":
+                    type: seq
+                    sequence:
+                        - { type: str, unique: true }
+                "exec":
+                    type: seq
+                    sequence:
+                        - { type: str, unique: true }
+    "branding": { type: str, required: true }
+    "prompt-install": { type: bool, default: false }
+    "dont-chroot": { type: bool, default: false }

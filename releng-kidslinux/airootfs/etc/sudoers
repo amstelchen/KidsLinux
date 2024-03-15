@@ -1,0 +1,5 @@
+root ALL=(ALL) ALL
+astro ALL=(ALL) ALL
+%wheel ALL=(ALL) ALL
+Defaults insults
+Defaults env_reset,timestamp_timeout=15

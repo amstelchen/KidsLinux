@@ -1,0 +1,5 @@
+---
+type: map
+mapping:
+    "srcLog": { type: str }
+    "destLog": { type: str }

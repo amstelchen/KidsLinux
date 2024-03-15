@@ -1,0 +1,74 @@
+# Spanish translations for astrolinux-welcome-app package.
+# Copyright (C) 2022 THE astrolinux-welcome-app'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the astrolinux-welcome-app package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: astrolinux-welcome-app\n"
+"Report-Msgid-Bugs-To: i18n@astrolinux.org\n"
+"POT-Creation-Date: 2022-06-18 02:32+0200\n"
+"PO-Revision-Date: 2022-06-18 02:32+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: astrolinux-welcome-app.py:38
+msgid "Welcome to Astro Linux"
+msgstr ""
+
+#: astrolinux-welcome-app.py:48
+msgid "Astro Linux 22.06 \"Arrakis\""
+msgstr ""
+
+#: astrolinux-welcome-app.py:60
+msgid "Welcome to Astro Linux!"
+msgstr ""
+
+#: astrolinux-welcome-app.py:66
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. At vero eos et accusam et justo duo dolores et ea rebum.\n"
+"Now, you may use the buttons below to get further information."
+msgstr ""
+
+#: astrolinux-welcome-app.py:75
+msgid "Visit astrolinux.org"
+msgstr ""
+
+#: astrolinux-welcome-app.py:79
+msgid "Astro Linux Programs"
+msgstr ""
+
+#: astrolinux-welcome-app.py:83
+msgid "Package Manager"
+msgstr ""
+
+#: astrolinux-welcome-app.py:87
+msgid "System Settings"
+msgstr ""
+
+#: astrolinux-welcome-app.py:91
+msgid "Visit the Astro Wiki"
+msgstr ""
+
+#: astrolinux-welcome-app.py:95
+msgid "Contributing to Astro"
+msgstr ""
+
+#: astrolinux-welcome-app.py:99
+msgid "Copyright notices"
+msgstr ""
+
+#: astrolinux-welcome-app.py:103
+msgid "Send Feedback"
+msgstr ""
+
+#: astrolinux-welcome-app.py:118
+msgid "Autostart \"Welcome\""
+msgstr ""

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=KidsLinux Welcome
+GenericName=KidsLinux Welcome
+X-GNOME-FullName=KidsLinux Welcome
+Comment=Welcome Application for KidsLinux Installs
+Exec=/usr/local/bin/kidslinux-welcome-app
+Icon=kidslinux-logo
+Terminal=false
+Type=Application
+Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=welcome;tool;
+StartupNotify=true

@@ -1,0 +1,79 @@
+# German translations for astrolinux-welcome-app package.
+# Copyright (C) 2022 THE astrolinux-welcome-app'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the astrolinux-welcome-app package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: astrolinux-welcome-app\n"
+"Report-Msgid-Bugs-To: i18n@astrolinux.org\n"
+"POT-Creation-Date: 2022-06-18 02:42+0200\n"
+"PO-Revision-Date: 2022-06-18 02:45+0200\n"
+"Last-Translator: Michael John <i18n@astrolinux.org>\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: astrolinux-welcome-app.py:38
+msgid "Welcome to Astro Linux"
+msgstr "Willkommen bei Astro Linux"
+
+#: astrolinux-welcome-app.py:48
+msgid "Astro Linux 22.06 \"Arrakis\""
+msgstr "Astro Linux 22.06 \"Arrakis\""
+
+#: astrolinux-welcome-app.py:60
+msgid "Welcome to Astro Linux!"
+msgstr "Willkommen bei Astro Linux!"
+
+#: astrolinux-welcome-app.py:66
+msgid ""
+"*Astro Linux* is a Linux distribution based on Arch Linux, focusing on "
+"astronomy, astrophysics and similar areas, like astronautics.\n"
+"Now, you may use the buttons below to get further information."
+msgstr ""
+"*Astro Linux* ist eine auf Arch Linux basierende Linux-Distribution, "
+"die sich auf Astronomie, Astrophysik und ähnliche Bereiche wie die "
+"Raumfahrt konzentriert.\n"
+"Jetzt können Sie die Schaltflächen unten verwenden, um weitere "
+"Informationen zu erhalten."
+
+#: astrolinux-welcome-app.py:75
+msgid "Visit astrolinux.org"
+msgstr "Besuche astrolinux.org"
+
+#: astrolinux-welcome-app.py:79
+msgid "Astro Linux Programs"
+msgstr "Astro Linux Programme"
+
+#: astrolinux-welcome-app.py:83
+msgid "Package Manager"
+msgstr "Paketmanager"
+
+#: astrolinux-welcome-app.py:87
+msgid "System Settings"
+msgstr "Systemeinstellungen"
+
+#: astrolinux-welcome-app.py:91
+msgid "Visit the Astro Wiki"
+msgstr "Besuche das Astro Wiki"
+
+#: astrolinux-welcome-app.py:95
+msgid "Contributing to Astro"
+msgstr "Beitragen zu Astro"
+
+#: astrolinux-welcome-app.py:99
+msgid "Copyright notices"
+msgstr "Copyright-Hinweise"
+
+#: astrolinux-welcome-app.py:103
+msgid "Send Feedback"
+msgstr "Feedback senden"
+
+#: astrolinux-welcome-app.py:118
+msgid "Autostart \"Welcome\""
+msgstr "Autostart \"Welcome\""

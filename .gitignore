@@ -1,0 +1,11 @@
+*.tar.zst
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+output/*
+custompkgs/*
+*~
+*.wxg*

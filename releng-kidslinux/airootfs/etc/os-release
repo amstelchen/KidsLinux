@@ -1,0 +1,11 @@
+NAME="KidsLinux"
+PRETTY_NAME="KidsLinux"
+ID=kidslinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://kidslinux.org/"
+DOCUMENTATION_URL="https://wiki.kidslinux.org/"
+SUPPORT_URL="https://kidslinux.org/"
+BUG_REPORT_URL="https://bugs.kidslinux.org/"
+LOGO=kidslinux-logo

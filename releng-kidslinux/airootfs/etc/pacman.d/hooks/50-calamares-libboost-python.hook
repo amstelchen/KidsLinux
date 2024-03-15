@@ -1,0 +1,12 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = calamares
+
+[Action]
+Description = Patching Calamares ...
+When = PostTransaction
+Depends = calamares
+Depends = sh
+Exec = /bin/sh -c "ln -sf /lib/libboost_python310.so.1.79.0 /lib/libboost_python310.so.1.78.0"
